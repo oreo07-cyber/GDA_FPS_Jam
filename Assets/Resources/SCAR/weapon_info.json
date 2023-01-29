@@ -1,0 +1,6 @@
+{
+  "id": "scar",
+  "weaponPrefabPath": "SCAR/WeaponPrefab/scar",
+  "meshPath": "SCAR/Models/display_Scar",
+  "displayName": "Scar"
+}
